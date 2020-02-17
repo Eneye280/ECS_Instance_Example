@@ -325,7 +325,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a64fb79545ee74a479d5e7d5ef4105c6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  howManyMeshInstantiator: 25000
+  howManyMeshInstantiator: 50000
   distanceMeshWithMesh: 50
   m_cubeMesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
   m_cubeMaterials:
